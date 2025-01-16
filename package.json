@@ -1,0 +1,15 @@
+{
+    "name": "kata-onboarding",
+    "version": "1.0.0",
+    "description": "first edit edit david",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0",
+        "typescript": "^5.7.3"
+    }
+}
