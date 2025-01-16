@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b068245e-d94d-4f40-9b43-a2cb529c055b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todoList.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/todoList.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Jest.todo list.executor": "Run",
+    "Jest.todo list.should add a task.executor": "Run",
     "Jest.todoList.test.ts.executor": "Run",
     "git-widget-placeholder": "mob/2025-01-16-todo-list",
     "node.js.detected.package.eslint": "true",
@@ -27,7 +27,7 @@
     "ts.external.directory.path": "C:\\Projets\\collectif-ytreza-dev\\kata-onboarding\\node_modules\\typescript\\lib"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.todo list">
     <configuration name="todo list" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -40,9 +40,23 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="todo list.should add a task" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/todoList.test.ts" />
+      <test-names>
+        <test-name value="todo list" />
+        <test-name value="should add a task" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Jest.todo list" />
+        <item itemvalue="Jest.todo list.should add a task" />
       </list>
     </recent_temporary>
   </component>
