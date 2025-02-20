@@ -8,5 +8,14 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2025-02-20T13:22:28.908253800Z",
+    "properties" : {
+      "projectName" : "kataRomanAddition",
+      "baseName" : "kataRomanAddition",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
