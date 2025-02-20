@@ -1,0 +1,12 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2025-02-20T13:22:28.486275900Z",
+    "properties" : {
+      "projectName" : "kataRomanAddition",
+      "baseName" : "kataRomanAddition",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}

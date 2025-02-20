@@ -1,0 +1,17 @@
+{
+  "name": "kata-roman-addition",
+  "version": "0.0.0",
+  "private": true,
+  "description": "kataRomanAddition",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "9.1.7",
+    "lint-staged": "15.4.3"
+  }
+}
