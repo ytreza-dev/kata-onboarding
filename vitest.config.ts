@@ -20,7 +20,7 @@ export default defineConfig({
     },
     environment: 'node',
     cache: false,
-    include: ['src/test/webapp/unit/**/*.{test,spec}.?(c|m)[jt]s?(x)'],
+    include: ['src/test/**/*.{test,spec}.?(c|m)[jt]s?(x)'],
     coverage: {
       thresholds: {
         perFile: true,
