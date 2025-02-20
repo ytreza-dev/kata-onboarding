@@ -1,8 +1,8 @@
 // add(I , I) ca donne II
 // pas le droit de convertir un nombre dec
 
-function add(i: string, i2: string): string {
-  return i + i2
+function add(left: string, right: string): string {
+  return left + right
 }
 
 describe('roman', () => {
