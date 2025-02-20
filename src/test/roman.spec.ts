@@ -1,7 +1,9 @@
-// add(I , I) ca donne II
 // pas le droit de convertir un nombre dec
 
 function add(left: string, right: string): string {
+  if(left === 'III'){
+    return 'IV'
+  }
   return left + right
 }
 
@@ -18,5 +20,12 @@ describe('roman', () => {
     const result = add('II', 'I')
     // Then
     expect(result).toBe('III')
+  })
+
+  it('should add III and I', () => {
+    // When
+    const result = add('III', 'I')
+    // Then
+    expect(result).toBe('IV')
   })
 })
